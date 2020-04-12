@@ -1,0 +1,13 @@
+ <display-name>: Es el nombre del proyecto.
+
+ <servlet>: Crea un nuevo servlet
+
+ <servlet-name>: Define el nombre del servlet en cuestión.
+
+ <servlet-class>: Define la clase que se va a usar para el servlet en cuestión.
+
+ <servlet-mapping>: Crea un sub-servlet
+
+ <url-pattern>: Define la dirección por la cual se va a acceder al HTML de dichos servlet.
+
+ <welcome-file>: Define cual es el archivo de para la primera página que se va a mostrar al iniciar el servlet.
